@@ -6,8 +6,8 @@ title: Laravel Packages
 
 Working with Laravel is awesome, especially when using packages that help you quickly finish your projects while following all SOTA best practices and recommendations. Below are some Laravel packages that I find helpful for accomplishing my projects:
 
-* [spatie/laravel-permission](https://spatie.be/docs/laravel-permission)
-* [spatie/laravel-sluggable](https://github.com/spatie/laravel-sluggable)
+* [spatie/laravel-permission](https://spatie.be/docs/laravel-permission) - for handling roles and permissions
+* [spatie/laravel-sluggable](https://github.com/spatie/laravel-sluggable) - for automatically generate URL-friendly slugs
 * [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar) - for debugging and profiling
 
 I kept this wonderful package that helps you create your admin panel quickly and easily; it's called [Filament](https://github.com/filamentphp/filament).
