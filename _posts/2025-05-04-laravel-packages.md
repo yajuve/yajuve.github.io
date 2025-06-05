@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Laravel Packages
+last_modified_at: 2025-06-05
 # categories: 
 ---
 
@@ -8,6 +9,7 @@ Working with Laravel is awesome, especially when using packages that help you qu
 
 * [spatie/laravel-permission](https://spatie.be/docs/laravel-permission) - for handling roles and permissions
 * [spatie/laravel-sluggable](https://github.com/spatie/laravel-sluggable) - for automatically generate URL-friendly slugs
+* [spatie/laravel-tags](https://github.com/spatie/laravel-tags) - add tags and taggable behaviour
 * [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar) - for debugging and profiling
 
 I kept this wonderful package that helps you create your admin panel quickly and easily; it's called [Filament](https://github.com/filamentphp/filament).
@@ -18,3 +20,4 @@ If you decide to use Filament, as I did, you can add these additional related pl
 
 * [filament shield](https://github.com/bezhanSalleh/filament-shield)
 * [spatie-laravel-media-library-plugin](https://github.com/filamentphp/spatie-laravel-media-library-plugin)
+* [filament-spatie-tags](https://filamentphp.com/plugins/filament-spatie-tags) (used with spatie/laravel-tags)
