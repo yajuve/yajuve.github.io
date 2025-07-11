@@ -2,6 +2,7 @@
 layout: post
 title:  "VSCode for Laravel"
 categories: tuto
+last_modified_at: 2025-07-11
 ---
 
 Here how i prepared my VSCode to code with **Laravel** PHP Framework
@@ -11,6 +12,7 @@ Here how i prepared my VSCode to code with **Laravel** PHP Framework
 * PHP Intelephense
 * Laravel (Official extension for Laravel)
 * PHP Debug: To debug with xdebug
+* PHP by DEVSENSE (Inlay Hints, Automatic DocBlocks, Usage Information, ...)
 
 ## Configuration
 
